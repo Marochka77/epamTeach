@@ -4,3 +4,4 @@
 
 * clone project
 * create new branch from the develop
+* do task
