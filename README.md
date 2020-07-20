@@ -2,4 +2,4 @@
 
 ### Epam teachers training
 
-* pull project
+* clone project
